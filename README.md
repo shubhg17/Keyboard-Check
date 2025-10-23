@@ -41,7 +41,7 @@ keyboard-check/
 
 1️⃣ Clone the repository:
 ```
-git clone https://github.com/shubhg17/keyboard-check.git
+git clone https://github.com/shubhg17/Keyboard-Check.git
 ```
 
 2️⃣ Navigate into the project folder:
@@ -72,6 +72,8 @@ cd keyboard-check
 - History of last few keys pressed
 
 - On-screen virtual keyboard visualization
+
+--- 
 
 ## 👨‍💻 Author
 
